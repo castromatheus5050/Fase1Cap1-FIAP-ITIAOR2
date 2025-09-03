@@ -178,10 +178,10 @@ Estes textos representam uma fonte valiosa para desenvolver soluções de NLP ap
 # 3. Dataset de Imagens de Eletrocardiograma (ECG)
 
 ## Link de Acesso
-<a href= "https://fiapcom-my.sharepoint.com/:f:/g/personal/rm559293_fiap_com_br/Es5sFzhOU-VGlCbu2wrbDbEBeU3EM0Z82-X_Jy_5BrzsSQ?e=RuWmTF">
+<a href= "https://fiapcom-my.sharepoint.com/:f:/g/personal/rm559293_fiap_com_br/Es5sFzhOU-VGlCbu2wrbDbEBeU3EM0Z82-X_Jy_5BrzsSQ?e=RuWmTF"> One Drive </a>
 
 ## Link para Download
-<a href= "https://www.kaggle.com/datasets/evilspirit05/ecg-analysis">
+<a href= "https://www.kaggle.com/datasets/evilspirit05/ecg-analysis"> Dataset Online </a>
 
 ## Descrição do Dataset
 
