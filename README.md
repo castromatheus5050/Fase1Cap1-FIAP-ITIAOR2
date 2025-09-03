@@ -177,6 +177,12 @@ Estes textos representam uma fonte valiosa para desenvolver soluções de NLP ap
 
 # 3. Dataset de Imagens de Eletrocardiograma (ECG)
 
+## Link de Acesso
+<a href= "https://fiapcom-my.sharepoint.com/:f:/g/personal/rm559293_fiap_com_br/Es5sFzhOU-VGlCbu2wrbDbEBeU3EM0Z82-X_Jy_5BrzsSQ?e=RuWmTF">
+
+## Link para Download
+<a href= "https://www.kaggle.com/datasets/evilspirit05/ecg-analysis">
+
 ## Descrição do Dataset
 
 Este conjunto de dados é composto por imagens de eletrocardiogramas (ECG) categorizadas em quatro classes distintas, destinadas a auxiliar no desenvolvimento e na valiação de modelos de aprendizado de máquina e visão computacional para diagnóstico cardíaco. As categorias são as seguintes:
